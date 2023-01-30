@@ -1,5 +1,5 @@
 # SQL-Project_Engeto
-SQL projekt v rámci Datové akademie
+SQL projekt v rámci Datové akademie (Na Discordu jsem "Jakub M.")
 
 Pro přípravu „primary“ tabulky jsem využil tabulky czechia_payroll, czechia_payroll_industry_branch, czechia_price a czechia_price category.
 Druhou tabulku jsem vytvořil spojením tabulek countries a economies.
