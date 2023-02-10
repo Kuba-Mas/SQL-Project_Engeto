@@ -23,7 +23,7 @@ Výzkumné otázky a odpovědi na ně:
 
 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10%)?
 
-  Takových roků je několik (2010, 2011, 2012). Např. v roce 2010 byl meziroční růst cen potravin 3,17%, zatímco růst mezd byl 2,16%, což znamená, že meziroční růst cen   potravin byl v tomto roce o 31,86% vyšší než růst mezd.
+  Takový roků v daném období není. Nárůst cen potravin je oproti mzdám největší v roce 2012, kdy cena potravin vzrostla o 4,65% a mzdy klesly o 0,86%, takže celkový  rozdíl mezi cenami potravin a mzdami je 5,51%.
 
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
